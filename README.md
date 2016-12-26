@@ -1,4 +1,4 @@
-<img src="./img/svqjs.png" style="width:250px;text-align:center">
+![SevillaJS Logo](./img/svqjs.png)
 # Meetups
 
 ## JS.now - Cómo aprovechar ES2015 hoy
