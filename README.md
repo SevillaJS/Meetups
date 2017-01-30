@@ -9,3 +9,11 @@ By [@neokore](https://twitter.com/neokore)
 * **Forum** [MeetUp](https://www.meetup.com/sevilla-js/messages/boards/thread/50487049)
 
 ***
+
+## Introducción a Angular
+By [@pmolinam](https://twitter.com/pmolinam)
+
+* **Slides** [SlideShare](http://es.slideshare.net/pjmolina/introduccin-a-angular/pjmolina/introduccin-a-angular)
+* **Video** [Youtube](https://www.youtube.com/watch?v=Ul3jNrG-gA8)
+
+***
