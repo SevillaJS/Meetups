@@ -17,3 +17,12 @@ By [@pmolinam](https://twitter.com/pmolinam)
 * **Video** [Youtube](https://www.youtube.com/watch?v=Ul3jNrG-gA8)
 
 ***
+
+## Introducción a React y React Native con arquitectura Flux
+By [@jose_fr_diaz](https://twitter.com/jose_fr_diaz)
+
+* **Slides** [PDF](https://drive.google.com/file/d/0B4JipcFucWrZc0tRLS0zSFRiUlU/view)
+* **Source code** [Github](https://github.com/josef-diazlopez/react-redux-native)
+* **Video** [Youtube](https://www.youtube.com/watch?v=wzGEAMMxFmc)
+
+***
